@@ -2,4 +2,4 @@
 
 Collection of various functions to work on slices.
 
-[![GoDoc](https://godoc.org/github.com/facette/sliceutil?status.svg)](https://godoc.org/github.com/facette/sliceutil)
+[![GoDoc](https://godoc.org/facette.io/sliceutil?status.svg)](https://godoc.org/facette.io/sliceutil)
